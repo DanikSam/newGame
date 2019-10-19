@@ -1,14 +1,14 @@
-# newGame
+# RunningMan
 
-﻿## Shooter
+Игра - платформер
  
 ## Функционал 
-Стрельба по врагам, объекты
+Передвижение, взаимодействие с объектами
 
 ## Платформы и технологии
 
 IDE — **Visual Studio**
 
-Технологии: C++, SFML
+Технологии: **C++, SFML**
 
 RoadMap https://docs.google.com/spreadsheets/d/1Emgf45CR8KJnsJbFkfztByiFBiAwcj4Of-1LVapoqBw/edit#gid=0
